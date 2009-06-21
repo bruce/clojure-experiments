@@ -1,0 +1,9 @@
+[submodule "vendor/clojure-http-client"]
+	path = vendor/clojure-http-client
+	url = git://github.com/technomancy/clojure-http-client.git
+[submodule "vendor/clojure-contrib"]
+	path = vendor/clojure-contrib
+	url = git://github.com/technomancy/clojure-contrib.git
+[submodule "vendor/clojure"]
+	path = vendor/clojure
+	url = git://github.com/technomancy/clojure.git
